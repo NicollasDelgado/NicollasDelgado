@@ -19,24 +19,21 @@
 ```javascript
 const nicollas = {
     pronouns: "ele/him",
-    code: ["JavaScript", "TypeScript", "Python", "Java", "C#"],
+    code: ["JavaScript", "TypeScript", "HTML", "CSS" "Java"],
     technologies: {
         frontEnd: {
-            js: ["React", "Vue", "Angular"],
-            css: ["TailwindCSS", "Bootstrap", "SASS"]
+            js: ["React", "React-Native", "Vanilla JS"],
+            css: ["TailwindCSS","CSS-in-JS"]
         },
         backEnd: {
             js: ["Node.js", "Express", "NestJS"],
-            python: ["Django", "FastAPI", "Flask"],
-            java: ["Spring Boot"],
-            csharp: [".NET Core"]
         },
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
+        databases: ["MongoDB", "PostgreSQL", "MySQL"],
         cloud: ["AWS", "Google Cloud", "Azure"],
-        tools: ["Docker", "Kubernetes", "Git", "Linux"]
+        tools: ["Docker", "Git"]
     },
     currentFocus: "Desenvolvimento Full Stack e Cloud Computing",
-    funFact: "Debuggar é como ser um detetive em um filme onde você também é o assassino 🔍"
+    funFact: "Depure seu coração antes de depurar seu código"
 };
 ```
 
@@ -106,10 +103,10 @@ const nicollas = {
 
 <div align="center">
   <a href="https://github.com/NicollasDelgado">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicollasDelgado&repo=seu-projeto-principal&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicollasDelgado&repo=Todo-List&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF" />
   </a>
   <a href="https://github.com/NicollasDelgado">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicollasDelgado&repo=outro-projeto-legal&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicollasDelgado&repo=Blog&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF" />
   </a>
 </div>
 
@@ -125,8 +122,10 @@ const nicollas = {
 ## 🌟 Frases Inspiradoras
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Programação%20não%20é%20sobre%20o%20que%20você%20sabe;%20é%20sobre%20o%20que%20você%20consegue%20descobrir." alt="Random Dev Quote"/>
 </div>
+
+
 
 ## 🤝 Vamos Conectar?
 
