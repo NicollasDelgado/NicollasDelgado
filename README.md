@@ -77,7 +77,7 @@ const Nicollas = {
     learningNext: ["Python", "Java", "PHP", "Backend completo"],
     
     currentFocus: "Solidificar frontend e iniciar backend",
-    openToWork: true"
+    openToWork: true
 };
 ```
 
@@ -87,23 +87,17 @@ const Nicollas = {
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<div align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicollasDelgado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicollasDelgado&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
 </div>
-
-<br/>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicollasDelgado&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak"/>
 </div>
 
-<br/>
-
 ---
 
 ## 🏆 Conquistas & Progresso
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=NicollasDelgado&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6" alt="GitHub Trophy"/>
 </div>
@@ -157,20 +151,16 @@ const Nicollas = {
 
 ---
 
-## 🚀 Meus Projetos
-
+🚀 Meus Projetos
 <div align="center">
 
 ### 💼 **Repositórios em Destaque**
-
-<a href="https://github.com/NicollasDelgado">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicollasDelgado&repo=Todo-List&theme=holi&hide_border=true" />
+  
+<a href="https://github.com/NicollasDelgado/Todo-List"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicollasDelgado&repo=Todo-List&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" />
+</a><a href="https://github.com/NicollasDelgado/Blog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicollasDelgado&repo=Blog&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" />
 </a>
-
-<a href="https://github.com/NicollasDelgado">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicollasDelgado&repo=Blog&theme=holi&hide_border=true" />
-</a>
-
 </div>
 
 ### 🔨 **O que estou construindo:**
