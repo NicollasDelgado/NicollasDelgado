@@ -6,8 +6,8 @@
 
 <div align="center">
   
-[![GitHub followers](https://img.shields.io/github/followers/NicollasDelgado?style=for-the-badge&logo=github&logoColor=white&color=0891b2)](https://github.com/NicollasDelgado)
-[![GitHub stars](https://img.shields.io/github/stars/NicollasDelgado?style=for-the-badge&logo=github&logoColor=white&color=0891b2)](https://github.com/NicollasDelgado)
+[![GitHub Followers](https://img.shields.io/github/followers/NicollasDelgado?style=for-the-badge&logo=github&logoColor=white&color=0891b2)](https://github.com/NicollasDelgado)
+[![GitHub Stars](https://img.shields.io/github/stars/NicollasDelgado?style=for-the-badge&logo=github&logoColor=white&color=0891b2&cacheSeconds=60)](https://github.com/NicollasDelgado)
 [![Profile Views](https://komarev.com/ghpvc/?username=NicollasDelgado&style=for-the-badge&logo=github&logoColor=white&color=0891b2&label=PROFILE%20VIEWS)](https://github.com/NicollasDelgado)
   
 </div>
