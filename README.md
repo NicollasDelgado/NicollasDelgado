@@ -116,7 +116,7 @@ const Nicollas = {
 
 <div align="center">
 
-### 🎨 Frontend (Meu Foco Principal)
+### 🎨 Frontend (Minhas Linguagens Principais)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -164,10 +164,11 @@ const Nicollas = {
 ### 💼 **Repositórios em Destaque**
 
 <a href="https://github.com/NicollasDelgado">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicollasDelgado&repo=Todo-List&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicollasDelgado&repo=Todo-List&theme=holi&hide_border=true" />
 </a>
+
 <a href="https://github.com/NicollasDelgado">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicollasDelgado&repo=Blog&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicollasDelgado&repo=Blog&theme=holi&hide_border=true" />
 </a>
 
 </div>
@@ -203,7 +204,7 @@ const Nicollas = {
 
 ### 📱 **Entre em contato**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicollas-delgado/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicollas-delgado/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NicollasDelgado)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicollasrodriguesdelgado@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5519993775894)
@@ -222,7 +223,11 @@ const Nicollas = {
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 <br/>
