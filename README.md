@@ -95,6 +95,28 @@ const Nicollas = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicollasDelgado&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak"/>
 </div>
 
+<!-- AUTO-STATS -->
+
+### 📊 **Estatísticas Detalhadas**
+
+```text
+📦 Repositórios Públicos: Carregando...
+⭐ Total de Stars:        Carregando...
+🍴 Total de Forks:        Carregando...
+👥 Seguidores:            Carregando...
+👤 Seguindo:              Carregando...
+```
+
+### 🔥 **Linguagens Mais Usadas (% de código)**
+
+```text
+Carregando estatísticas...
+```
+
+*🔄 Última atualização automática: Aguardando primeira execução*
+
+<!-- AUTO-STATS -->
+
 ---
 
 ## 🏆 Conquistas & Progresso
@@ -151,7 +173,10 @@ const Nicollas = {
 
 ---
 
-🚀 Meus Projetos
+## 🚀 Meus Projetos
+
+<!-- AUTO-PROJECTS -->
+
 <div align="center">
 
 ### 💼 **Repositórios em Destaque**
@@ -161,13 +186,17 @@ const Nicollas = {
 </a><a href="https://github.com/NicollasDelgado/Blog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicollasDelgado&repo=Blog&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" />
 </a>
+
 </div>
+
+<!-- AUTO-PROJECTS -->
 
 ### 🔨 **O que estou construindo:**
 - 📱 **Apps React Native** com Expo
 - ⚛️ **Aplicações de Sites/App Webs** com React
 - 🎨 **Interfaces responsivas** com React e CSS
 - 📝 **Aprendendo Utilizar** o Prisma
+
 <br/>
 
 ---
